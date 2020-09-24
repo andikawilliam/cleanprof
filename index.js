@@ -1,6 +1,10 @@
 let htmlElement = document.querySelector('html');
 let bodyElement = document.querySelector('body');
 let overlayElement = document.querySelector('#overlay');
+let bgvideo = document.getElementById("BgVideo");
+
+bgvideo.muted = true;
+bgvideo.play();
 
 function disableScroll() {
   htmlElement.style.overflow = 'hidden';
