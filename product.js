@@ -23,7 +23,7 @@ let productList = [
     name : "Hand Sanitizer Spray",
     spec : "250 mL",
     price : "38000",
-    discount : "0%",
+    discount : "30%",
     link : "https://www.tokopedia.com/cleanprofid/handsanitizer-cleanprof-250ml",
   },
   { 
