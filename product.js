@@ -83,7 +83,7 @@ let productList = [
   {
     id : 11,
     image : "./resources/product-pic/dis-5L-low-pix.png",
-    name : "DisinfectanTTT",
+    name : "Disinfectant",
     spec : "5 L",
     price : "350000",
     discount : "30%",
