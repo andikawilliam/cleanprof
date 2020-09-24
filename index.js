@@ -1,9 +1,8 @@
 let htmlElement = document.querySelector('html');
 let bodyElement = document.querySelector('body');
 let overlayElement = document.querySelector('#overlay');
-let bgvideo = document.getElementById("BgVideo");
+let bgvideo = document.querySelector("#bgvideo");
 
-bgvideo.muted = true;
 bgvideo.play();
 
 function disableScroll() {
