@@ -5,7 +5,7 @@ let productList = [
     name : "Hand Sanitizer",
     spec : "60 mL",
     price : "17000",
-    discount : "20%",
+    discount : "30%",
     link : "https://www.tokopedia.com/cleanprofid/handsanitizer-cleanprof-60ml",
   },
   { 
